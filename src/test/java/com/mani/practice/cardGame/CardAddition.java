@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class CardAddition {
-    int total = 52;
+
     List<Integer> cards;
 
     public void setCards(Player player) {
